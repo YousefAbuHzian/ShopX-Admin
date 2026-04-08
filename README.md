@@ -43,7 +43,7 @@ A cross-platform mobile admin panel for managing an e-commerce store end-to-end.
 ---
 ## Try It Out
 
-[Download APK](https://github.com/YOUR_USERNAME/shopx-admin/releases/latest/download/shopx.apk)
+[Download APK](https://github.com/YousefAbuHzian/ShopX-Admin/releases/tag/v1.0.0)
 
 > Android only. Enable "Install from unknown sources" if prompted.
 > 
