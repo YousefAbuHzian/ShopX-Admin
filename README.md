@@ -51,4 +51,5 @@ A cross-platform mobile admin panel for managing an e-commerce store end-to-end.
 ## Contact
 
 **Yousef Abu Hzian** – Junior Full-Stack Developer
-[LinkedIn](https://linkedin.com/in/YousefAbuHzian) · [Email](yousefabuhzian@gmail.com)
+[LinkedIn](https://linkedin.com/in/YousefAbuHzian) ·
+Email : yousefabuhzian@gmail.com
