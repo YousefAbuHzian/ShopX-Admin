@@ -14,8 +14,6 @@ A cross-platform mobile admin panel for managing an e-commerce store end-to-end.
   <img src="screenshots/statistics.jpg" width="180"/>
 </p>
 
-| ![](screenshots/dashboard.png) | ![](screenshots/orders.png) | ![](screenshots/products.png) | ![](screenshots/edit_product.png) | ![](screenshots/statistics.png) | 
-
 ---
 
 ## Features
