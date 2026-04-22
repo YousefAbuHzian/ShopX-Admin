@@ -49,6 +49,7 @@ A cross-platform mobile admin panel for managing an e-commerce store end-to-end.
 [Download APK](https://github.com/YousefAbuHzian/ShopX-Admin/releases/download/v1.0.0/app-release.apk)
 
 > Android only. Enable "Install from unknown sources" if prompted.
+
 Email: admin@gmail.com
 Password: 123456
 > 
